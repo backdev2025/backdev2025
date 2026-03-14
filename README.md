@@ -1,16 +1,31 @@
-## Hi there 👋
+## Tech Stack
 
-<!--
-**backdev2025/backdev2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
+* Go
+* Python
+* JavaScript
+* Bash / Linux scripting
 
-Here are some ideas to get you started:
+### Backend Frameworks
+* FastAPI
+* Flask
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### AI / LLM Frameworks
+* LangGraph (stateful AI agent framework)
+
+### Development Tools
+* Langflow (visual AI builder)
+* n8n (workflow automation)
+* Docker (containerization)
+* GitHub (version control)
+* Nextcloud (self-hosted collaboration platform)
+
+### Databases
+* MySQL
+* PostgreSQL
+* MongoDB
+* Redis
+
+### Infrastructure
+* Nginx (web server)
+* Linux (operating system)
