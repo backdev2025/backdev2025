@@ -1,24 +1,9 @@
 <h1 align="center">Hi 👋, I'm Armaghan</h1>
-<h3 align="center">AI and Backend Engineer creating intelligent, secure, and scalable systems, streamlining workflows, optimizing server operations, and delivering reliable, high-performance solutions.</h3>
+<h3 align="center">AI & Backend Engineer | Scalable Systems | Workflow Automation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Back+End+Developer;Python+%7C+Go+%7C+JavaScript;AI+%26+Automation+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=2E97F7&center=true&vCenter=true&width=600&lines=AI+%26+Backend+Engineer;Building+Intelligent+%26+Scalable+Systems;Streamlining+Workflows+%26+Optimizing+Servers;Creating+Reliable+High-Performance+Solutions" alt="Typing SVG" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=backdev2025&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=backdev2025&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=backdev2025&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="45%" />
-</p>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -51,22 +36,6 @@
 ### ☁️ Infrastructure
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/backdev2025">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=backdev2025&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
